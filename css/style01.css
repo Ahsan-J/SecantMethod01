@@ -1,0 +1,8 @@
+#data_table,#ans{
+    visibility: hidden;
+}
+#footer {
+   position:fixed;
+   bottom:0px;
+   height:30px;
+}
